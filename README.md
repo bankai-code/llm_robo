@@ -1,4 +1,4 @@
-# llm_robo
+# Large Language Model-Based Virtual Robot Pick-Place Manipulation
 **Large Language Model-Based Virtual Robot Pick-Place Manipulation**
 
 While large language models possess a deep understanding of human language, translating this knowledge into effective, context-sensitive robotic actions remains a challenge. For instance, instructing a robot to ”pick an object and place it in the corner” or ”categorize these objects” should be as simple as talking to another person. This project seeks to bridge this gap, implementing a rudimentary proof of concept idea of a pick-and-place assistant in a tabletop environment. It enables a virtual robot to interpret LLM prompts and perform context-relevant actions on the various ’pick’ objects and ’place’ them appropriately. The project shall leverage LLMs, object detection, and robot manipulation.
